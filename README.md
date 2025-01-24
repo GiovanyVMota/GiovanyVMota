@@ -21,7 +21,7 @@ Acredito firmemente que o aprendizado e o desenvolvimento contínuo dos indivíd
 
 Possuo excelentes habilidades de comunicação interpessoal, experiência em liderança de equipes, proatividade e uma forte motivação para aprender e evoluir constantemente. Por isso, estou sempre imerso em aprendizado contínuo e dedicado ao aprimoramento pessoal e profissional no universo da programação e suas áreas similares.
 
-### E-mail:
+### Contato:
 
 giovany.victor.mota34@gmail.com
 
