@@ -7,9 +7,7 @@
 ### Tecnologias que eu uso no meu dia
 <div style = "display: inline_block"><br/>
     <img align = "center" alt = "C#" src= https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>
-    <img align = "center" alt = ".net" src= https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white>
-    <img align = "center" alt = "ruby" src = https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white>
-    <img align = "center" alt = "Angular" src =https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white>
+    <img align = "center" alt = ".net" src= https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
     <img align = "center" alt = "TypeScript" src =https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 </div><br/>
 
