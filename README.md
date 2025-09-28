@@ -11,15 +11,18 @@
     <img align = "center" alt = "TypeScript" src =https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>
 </div><br/>
 
-Olá, seja bem-vindo(a) ao meu perfil!
+Welcome to my GitHub profile!  
 
-Sou um Profissional de TI apaixonado por códigos e projetos como um todo. 
+I’m an **IT professional** passionate about **software development** and **tech projects**.  
 
-Acredito firmemente que o aprendizado e o desenvolvimento contínuo dos indivíduos podem impulsionar significativamente o desempenho das empresas.
+I strongly believe that continuous learning drives both personal growth and business performance.  
 
-Possuo excelentes habilidades de comunicação interpessoal, experiência em liderança de equipes, proatividade e uma forte motivação para aprender e evoluir constantemente. Por isso, estou sempre imerso em aprendizado contínuo e dedicado ao aprimoramento pessoal e profissional no universo da programação e suas áreas similares.
+### 🚀 About Me
+- 🎓 Currently pursuing a degree in **Systems Analysis and Development**  
+- 💻 Focused on **Ruby, Ruby on Rails, JavaScript, HTML and CSS**  
+- 🤝 Skilled in **team communication and leadership**  
+- 🌍 Preparing for **remote and international opportunities**  
 
-### Contato:
-
-giovany.victor.mota34@gmail.com
+### 📫 Contact
+📧 giovany.victor.mota34@gmail.com  
 
