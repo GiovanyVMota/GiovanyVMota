@@ -14,7 +14,7 @@
 ### 🧠 About Me
 
 - 🎓 Currently pursuing a degree in **Systems Analysis and Development**
-- 💻 Focused on **Python**, **Flask** and **Django**
+- 💻 Focused on **Java**, **Kotlin** and **Spring Boot**
 - 🌍 Preparing for **remote and international opportunities**
 - 🚀 Passionate about **software development**, **AI**, and **innovation**
 - 🤝 Strong believer that continuous learning = personal + business growth
@@ -24,9 +24,9 @@
 ### ⚙️ Technologies I use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
